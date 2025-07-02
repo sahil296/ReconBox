@@ -1,0 +1,12 @@
+{
+  "ip": "35.154.178.221",
+  "hostname": "ec2-35-154-178-221.ap-south-1.compute.amazonaws.com",
+  "city": "Mumbai",
+  "region": "Maharashtra",
+  "country": "IN",
+  "loc": "19.0728,72.8826",
+  "org": "AS16509 Amazon.com, Inc.",
+  "postal": "400017",
+  "timezone": "Asia/Kolkata",
+  "readme": "https://ipinfo.io/missingauth"
+}

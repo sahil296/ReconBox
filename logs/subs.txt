@@ -1,0 +1,9 @@
+[+] www.sicsr.ac.in → sicsr.ac.in.
+35.154.178.221
+[-] staging.sicsr.ac.in
+[-] blog.sicsr.ac.in
+[-] test.sicsr.ac.in
+[+] ftp.sicsr.ac.in → 108.167.146.90
+[-] admin.sicsr.ac.in
+[-] dev.sicsr.ac.in
+[-] mail.sicsr.ac.in

@@ -1,0 +1,1952 @@
+Server: Apache
+Server: Apache
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+            <title>Top Computer Science College in India - SICSR, Pune</title>
+        <meta content="" name="keywords">
+        <meta content="SICSR is one of the top computer science colleges in India, offering quality education in Pune. Explore our courses and programs in Computer Science and IT." name="description">
+        <link rel="canonical" href="">
+        <!-- Bootstrap CSS -->
+    <link rel="preload" fetchpriority="high" as="image" href="https://www.sicsr.ac.in/assets/images/home/logo.webp" type="image/webp">
+    <link rel="preload" fetchpriority="high" as="image" href="https://www.sicsr.ac.in/assets/images/banner/banner.webp" type="image/webp">
+    <link rel="preload" fetchpriority="high" as="image" href="https://www.sicsr.ac.in/assets/images/banner/mobile-banner.webp" type="image/webp">
+    <link rel="preload" fetchpriority="high" as="image" href="https://www.sicsr.ac.in/assets/images/home/about_us_mobile.webp" type="image/webp">
+    <link rel="stylesheet" href="https://www.sicsr.ac.in/assets/css/style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.css">
+    <link rel="icon" type="image/x-icon" href="https://www.sicsr.ac.in/assets/images/home/fevicon.webp">
+  
+    <!-- The `crossorigin` attribute is required for fonts—even
+     self-hosted ones, as fonts are considered CORS resources. -->
+    <link rel="preload" as="font" type="font/woff" href="https://www.sicsr.ac.in/assets/fonts/Montserrat-Light.woff" crossorigin>
+    <link rel="preload" as="font" type="font/woff" href="https://www.sicsr.ac.in/assets/fonts/Montserrat-Regular.woff" crossorigin>
+    <link rel="preload" as="font" type="font/woff" href="https://www.sicsr.ac.in/assets/fonts/Montserrat-Medium.woff" crossorigin>
+    <link rel="preload" as="font" type="font/woff" href="https://www.sicsr.ac.in/assets/fonts/Montserrat-SemiBold.woff" crossorigin>
+    <link rel="preload" as="font" type="font/woff" href="https://www.sicsr.ac.in/assets/fonts/Montserrat-Bold.woff" crossorigin>
+    <link rel="preload" as="font" type="font/woff" href="https://www.sicsr.ac.in/assets/fonts/Montserrat-ExtraBold.woff" crossorigin>
+    <link rel="preload" as="font" type="font/woff" href="https://www.sicsr.ac.in/assets/fonts/Montserrat-Black.woff" crossorigin>
+    
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-SRD5XHP95P"></script> 
+    <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-SRD5XHP95P'); </script>
+     <!-- Google tag (gtag.js) -->
+    <meta name="google-site-verification" content="se-m3LuSQF1fWJ4bbyn2npwM4XSiBqls_sXcp-UMCeA" />
+        
+</head>
+<body>
+    
+    <header>
+	<div class="top_header">
+		<div class="header_contact">
+			<div class="container">
+				<div class="header_contact_inner">
+					<div class="header_contact_inner_box">
+						<a href="mailto:admissions@sicsr.ac.in"> <img src="https://www.sicsr.ac.in/assets/images/email.png" alt=""> admissions@sicsr.ac.in</a>
+					</div>
+					<div class="header_contact_inner_box">
+						<b>Admissions</b>
+						<div>
+							<img src="https://www.sicsr.ac.in/assets/images/call.png" alt=""> (+91) 9075088779
+						</div> /
+						<div >(+91) 020 - 2567 5601</div> / 03 
+					</div>
+					<div class="header_contact_inner_box">
+						<span> (Available from 9:30 a.m. to 5:30 p.m.)</span>	
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="top_headerBox">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="top_header_inner">
+							<!-- <div class="btn_wrap">
+								<a href="" class="white_btn">Register for Webinar</a>
+							</div> -->
+							<div class="top_header_logo">
+								<a href="https://www.sicsr.ac.in" title="Leading Institute of Computer Studies in India">
+									<img src="https://www.sicsr.ac.in/assets/images/home/logo.webp" width="516" height="32" name="logo-image" alt="Leading Institute of Computer Studies in India" class="img-fluid">
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>            
+	</div>
+	<div class="main_menu">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12">
+					<div class="desk-menu">
+						<nav class="box-menu">
+							<div class="menu-container">
+								<div class="menu-header-container">
+									<ul id="cd-primary-nav" class="menu">
+										<li class="menu-item home_icon">
+											<a href="https://www.sicsr.ac.in" title="Home">
+												<svg width="22" height="21" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+													<path d="M24.5804 10.5202L20.7915 6.73133V2.35454C20.7915 1.56316 20.1502 0.921804 19.3576 0.921804C18.5669 0.921804 17.9256 1.56316 17.9256 2.35454V3.8655L15.1045 1.04428C13.7097 -0.34975 11.2846 -0.347277 9.89303 1.0468L0.419436 10.5202C-0.139812 11.0806 -0.139812 11.9873 0.419436 12.5468C0.978935 13.107 1.8874 13.107 2.44669 12.5468L11.9194 3.07311C12.228 2.76613 12.7719 2.76613 13.0789 3.0722L22.5532 12.5468C22.8341 12.8269 23.2004 12.9662 23.5665 12.9662C23.9335 12.9662 24.3003 12.8267 24.5804 12.5468C25.1399 11.9873 25.1399 11.0806 24.5804 10.5202Z" fill="#C4161C"/>
+													<path d="M12.9977 5.7928C12.7224 5.51772 12.2768 5.51772 12.0023 5.7928L3.66934 14.1233C3.53778 14.2548 3.4632 14.4344 3.4632 14.6218V20.6977C3.4632 22.1235 4.61924 23.2795 6.04496 23.2795H10.1706V16.8902H14.8285V23.2795H18.9542C20.3799 23.2795 21.5359 22.1235 21.5359 20.6978V14.6218C21.5359 14.4344 21.462 14.2548 21.3297 14.1233L12.9977 5.7928Z" fill="#C4161C"/>
+												</svg>                                                        
+											</a>
+										</li>
+										<li class="menu-item menu-item-has-children">
+											<a href="#">About</a>
+											<ul class="sub-menu">
+												<li class="menu-item menu-item-has-children">
+													<a href="#">Overview Symbiosis</a>
+													<ul class="sub-menu">
+														<li class="menu-item">
+															<a target="_blank" href="https://siu.edu.in/">About SIU</a>
+														</li>
+														<li class="menu-item">
+															<a target="_blank" href="https://siu.edu.in/symbiosis-chancellor.php">Leadership</a>
+														</li>
+													</ul>
+												</li>
+												<li class="menu-item menu-item-has-children">
+													<a href="#">Overview SICSR</a>
+													<ul class="sub-menu">
+														<li class="menu-item">
+															<a href="https://www.sicsr.ac.in/aboutsicsr">About SICSR</a>
+														</li>
+														<li class="menu-item">
+															<a href="https://www.sicsr.ac.in/message-from-director">SICSR Director</a>
+														</li>
+														<li class="menu-item">
+															<a href="https://www.sicsr.ac.in/message-from-dy-director">SICSR Dy. Director</a>
+														</li>
+														<li class="menu-item">
+															<a href="https://www.sicsr.ac.in/rankings">Rankings</a>
+														</li>
+														<li class="menu-item">
+															<a href="https://www.sicsr.ac.in/infrastructure">Infrastructure</a>
+														</li>
+													</ul>
+												</li>
+												<li class="menu-item menu-item-has-children">
+													<a href="#">Committees</a>
+													<ul class="sub-menu">
+														<li class="menu-item">
+															<a target="_blank" href="https://www.siu.edu.in/about-us/authorities-committees/">SIU Committees</a>
+														</li>
+														<li class="menu-item">
+															<a target="_blank" href="https://www.sicsr.ac.in/assets/pdf/about/1099-Const-of-ARC-SB-Road.pdf">Anti Ragging</a>
+														</li>
+													</ul>
+												</li>
+											</ul>
+										</li>
+										<li class="menu-item menu-item-has-children">
+											<a href="#">Programmes</a>
+											<ul class="sub-menu">
+												<li class="menu-item menu-item-has-children">
+													<a href="#">Under Graduate</a>
+													<ul class="sub-menu">
+														<li class="menu-item">
+															<a href="https://www.sicsr.ac.in/programmes/bca/overview">BCA Honours/ Honours with Research</a>
+														</li>
+														<li class="menu-item">
+															<a href="https://www.sicsr.ac.in/programmes/bba-it/overview">BBA (IT)  Honours/ Honours with Research</a>
+														</li>
+													</ul>
+												</li>
+												<li class="menu-item menu-item-has-children">
+													<a href="#">Post Graduate</a>
+													<ul class="sub-menu">
+														<li class="menu-item">
+															<a href="https://www.sicsr.ac.in/programmes/msc-ca/overview">MSc (CA)</a>
+														</li>
+														<li class="menu-item">
+															<a href="https://www.sicsr.ac.in/programmes/mba-it/overview">MBA (IT)</a>
+														</li>
+														<li class="menu-item">
+															<a href="https://www.sicsr.ac.in/programmes/mba-dt/overview">MBA (DT)</a>
+														</li>
+													</ul>
+												</li>  
+												<li class="menu-item menu-item-has-children">
+													<a href="#">Academic Info</a>
+													<ul class="sub-menu">
+														<li class="menu-item">
+															<a target="_blank" href="https://www.siu.edu.in/programmes#gAttribute">Graduate Attributes</a>
+														</li>
+														<li class="menu-item">
+															<a href="https://www.sicsr.ac.in/programme-educational-objectives/bca">Programme Educational Objectives</a>
+														</li>
+														<li class="menu-item">
+															<a href="https://www.sicsr.ac.in/generic-rules">Exam</a>
+														</li>
+														<li class="menu-item">
+															<a href="https://www.sicsr.ac.in/library/about-library">Library</a>
+														</li>
+														<li class="menu-item">
+															<a target="_blank" href="http://time-table.sicsr.ac.in/">Timetable</a>
+														</li>
+														<li class="menu-item">
+															<a href="https://www.sicsr.ac.in/working-hours">Working Hours</a>
+														</li>
+														<li class="menu-item">
+															<a href="https://www.sicsr.ac.in/academic-bank-of-credits">Academic Bank of Credits</a>
+														</li>
+													</ul>
+												</li>                                                    
+											</ul>
+										</li>
+										<li class="menu-item menu-item-has-children">
+											<a href="">Admissions</a>
+											<ul class="sub-menu">
+												<li class="menu-item">
+													<a href="https://www.sicsr.ac.in/undergraduate-admission-process">SET (For Undergraduate Programmes)</a>
+												</li>
+												<li class="menu-item">
+													<a href="https://www.sicsr.ac.in/postgraduate-admission-process">SNAP ( For Postgraduate Programmes)</a>
+												</li>
+												<li class="menu-item">
+													<a href="https://www.sicsr.ac.in/non-snap">Non- SNAP (For MSc (CA) Programme)</a>
+												</li>
+													<li class="menu-item">
+													<a href="https://www.sicsr.ac.in/programmes/bca/admission-schedule">UG Admissions Schedule</a>
+												</li>
+													</li>
+												<li class="menu-item">
+													<a href="https://www.sicsr.ac.in/programmes/mba-it/admission-schedule">MBA (IT) / MBA (DT) Admissions Schedule </a>
+												</li>
+													<li class="menu-item">
+													<a href="https://www.sicsr.ac.in/programmes/msc-ca/admission-schedule">MSc (CA) Admissions Schedule  </a>
+												</li>
+											</ul>
+										</li>
+										<li class="menu-item menu-item-has-children">
+											<a href="#">Students</a>
+											<ul class="sub-menu">
+												<li class="menu-item">
+													<a target="_blank" href="https://www.symbiuniforms.com">Symbiosis Uniform Portal</a>
+												</li>
+												<li class="menu-item">
+													<a target="_blank" href="https://www.sicsr.ac.in/assets/pdf/students/student-diary-2024-25.pdf">Student Diary</a>
+												</li>
+												<li class="menu-item">
+													<a href="https://www.sicsr.ac.in/event-calendar">Event Calendar</a>
+												</li>
+												<li class="menu-item">
+													<a href="https://www.sicsr.ac.in/students-achievement">Achievements</a>
+												</li>
+												<li class="menu-item menu-item-has-children">
+													<a href="#">Education loans</a>
+													<ul class="sub-menu">
+														<li class="menu-item">
+															<a target="_blank" href="https://www.sicsr.ac.in/assets/pdf/students/BOB-Education-Loan.pdf">Bank of Baroda</a>
+														</li>
+														<li class="menu-item">
+															<a target="_blank" href="https://www.sicsr.ac.in/assets/pdf/students/iSMART-Education-Loan.pdf">ICICI Bank</a>
+														</li>
+														<li class="menu-item">
+															<a target="_blank" href="https://www.sicsr.ac.in/assets/pdf/students/Axis-Bank-Edcation-Loan.pdf">Axis Bank</a>
+														</li>
+														<!-- <li class="menu-item">
+															<a target="_blank" href="https://lead.credila.com/MBA?L_SourceContent=PML&amp;L_mx_z_temp_p_name=HCLS5&amp;L_SourceCampaign=IndiaMBA&amp;L_mx_lead_ext_ref_id=Symbiosis">Credila Financial Services Ltd</a>
+														</li> -->
+													</ul>
+												</li>
+												<li class="menu-item">
+													<a target="_blank" href="http://cursor.sicsr.ac.in/?_ga=2.57878122.1745385321.1736848446-1354711165.1736848446">E-magazine</a>
+												</li>
+												<li class="menu-item menu-item-has-children">
+													<a href="#">Institutional Social Responsibility</a>
+													<ul class="sub-menu">
+														<li class="menu-item">
+															<a href="https://www.sicsr.ac.in/service-learning">Service Learning </a>
+														</li>
+													</ul>
+												</li>
+												<li class="menu-item">
+													<a href="https://www.sicsr.ac.in/sports">Sports</a>
+												</li>
+												<li class="menu-item">
+													<a href="https://www.sicsr.ac.in/cultural-events">Cultural Events</a>
+												</li>
+												<li class="menu-item menu-item-has-children">
+													<a href="#">Students Engagement</a>
+													<ul class="sub-menu">
+														<li class="menu-item">
+															<a href="https://www.sicsr.ac.in/technical-events">Technical Events </a>
+														</li>
+														<li class="menu-item">
+															<a href="https://www.sicsr.ac.in/capability-enhancement-and-development-schemes">Capability Enhancement and Development Schemes </a>
+														</li>
+														<li class="menu-item">
+															<a href="https://www.sicsr.ac.in/career-enhancement-schemes">Career Enhancement Schemes </a>
+														</li>															
+													</ul>
+												</li>
+												<li class="menu-item">
+													<a href="https://www.sicsr.ac.in/hurukuro-lectures">Hurukuro Lectures</a>
+												</li>
+												<li class="menu-item menu-item-has-children">
+													<a href="#">Research Papers</a>
+													<ul class="sub-menu">
+														<li class="menu-item">
+															<a href="https://www.sicsr.ac.in/journal-publications">Journal Publications </a>
+														</li>
+														<li class="menu-item">
+															<a href="https://www.sicsr.ac.in/conference-proceedings-publications">Conference Proceedings Publications </a>
+														</li>															
+													</ul>
+												</li>
+												<li class="menu-item">
+													<a href="https://www.sicsr.ac.in/institute-committees">Institute Committees</a>
+												</li>
+											</ul>
+										</li>
+										<!-- <li class="menu-item menu-item-has-children">
+											<a href="#">Team</a>
+											<ul class="sub-menu">
+												<li class="menu-item menu-item-has-children">
+													<a target="_blank">Faculty</a>
+													<ul class="sub-menu">															
+														<li class="menu-item">
+															<a href="https://www.sicsr.ac.in/faculty-members">Teaching Staff</a>
+														</li>
+														<li class="menu-item">
+															<a href="https://www.sicsr.ac.in/administrative-staff">Administrative Staff</a>
+														</li>
+														<li class="menu-item">
+															<a href="https://www.sicsr.ac.in/awards-and-recognition">Awards and Recognization</a>
+														</li>
+														<li class="menu-item">
+															<a href="https://www.sicsr.ac.in/faculty-staff-development-programmes">Development programmes</a>
+														</li>
+														<li class="menu-item">
+															<a href="https://www.sicsr.ac.in/faculty-event-calendar">Faculty Event Calendar</a>
+														</li>
+														<li class="menu-item">
+															<a target="_blank" href="https://www.siu.edu.in/faculty">Faculty Members</a>
+														</li>
+													</ul>
+												</li>													                                                  
+											</ul>
+										</li> -->
+										<li class="menu-item menu-item-has-children">
+											<a target="_blank" href="#">Team</a>
+											<ul class="sub-menu">
+												<li class="menu-item">
+													<a href="https://www.sicsr.ac.in/faculty-members">Teaching Staff</a>
+												</li>
+												<li class="menu-item">
+													<a href="https://www.sicsr.ac.in/administrative-staff">Administrative Staff</a>
+												</li>
+												<li class="menu-item">
+													<a href="https://www.sicsr.ac.in/awards-and-recognition">Awards and Recognization</a>
+												</li>
+												<li class="menu-item">
+													<a href="https://www.sicsr.ac.in/faculty-staff-development-programmes">Development programmes</a>
+												</li>
+												<li class="menu-item">
+													<a href="https://www.sicsr.ac.in/faculty-event-calendar">Faculty Event Calendar</a>
+												</li>
+												<li class="menu-item">
+													<a target="_blank" href="https://www.siu.edu.in/faculty">Faculty Members</a>
+												</li>
+											</ul>
+										</li>
+										<li class="menu-item menu-item-has-children">
+											<a target="_blank" href="#">Research</a>
+											<ul class="sub-menu">
+												<li class="menu-item">
+													<a target="_blank" href="https://www.sicsr.ac.in/assets/pdf/research/Research-policy-AY-2024-25-Website.pdf">Research Policy</a>
+												</li>
+												<li class="menu-item">
+													<a href="https://www.sicsr.ac.in/research-publication">Research Publication</a>
+												</li>
+												<li class="menu-item">
+													<a href="https://www.sicsr.ac.in/research-grants">Research Grants</a>
+												</li>
+												<li class="menu-item">
+													<a href="https://www.sicsr.ac.in/organized-conferences">Conferences</a>
+												</li>
+												<li class="menu-item">
+													<a href="https://www.sicsr.ac.in/corporate-training">Corporate Training</a>
+												</li>
+												<li class="menu-item">
+													<a href="https://www.sicsr.ac.in/phd">Ph.D. Programme</a>
+												</li>
+											</ul>
+										</li>
+										<li class="menu-item menu-item-has-children">
+											<a href="#">Placements</a>
+											<ul class="sub-menu">
+												<li class="menu-item">
+													<a href="https://www.sicsr.ac.in/our-recruiters">Our Recruiters</a>
+												</li>
+												<li class="menu-item">
+													<a href="https://www.sicsr.ac.in/placement-cell">Placement Cell and Industry Relation</a>
+												</li>
+												<li class="menu-item">
+													<a href="https://www.sicsr.ac.in/placements-statistics">Statistics</a>
+												</li>
+												<li class="menu-item">
+													<a href="https://www.sicsr.ac.in/student-profile-mba-it">Student Profile</a>
+												</li>
+												<li class="menu-item">
+													<a href="https://www.sicsr.ac.in/corporate-response-form">Contact Placement Cell</a>
+												</li>
+											</ul>
+										</li>
+										<li class="menu-item menu-item-has-children">
+											<a href="">Alumni</a>
+											<ul class="sub-menu">
+												<li class="menu-item">
+													<a href="https://www.sicsr.ac.in/objectives">Objective</a>
+												</li>
+												<li class="menu-item">
+													<a target="_blank" href="https://alumni.symbiosis.ac.in/">Registration</a>
+												</li>
+												<li class="menu-item">
+													<a href="https://www.sicsr.ac.in/news">News</a>
+												</li>
+												<li class="menu-item">
+													<a href="https://www.sicsr.ac.in/testimonials">Testimonial</a>
+												</li>
+												<li class="menu-item">
+													<a href="https://www.sicsr.ac.in/contact-for-alumni-engagement">Contact for Alumni Engagement</a>
+												</li>
+											</ul>
+										</li>
+										<li class="contact menu-item ">
+											<a href="https://www.sicsr.ac.in/contact-us">Contact Us</a>
+										</li>
+										<li class="line"></li>
+									</ul>
+								</div>
+							</div>
+							<div class="hamburger-menu">
+								<div class="bar"></div>
+							</div>
+						</nav>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- <a class="caution_notice_btn" href="">Caution Notice</a> -->
+	
+</header>    <style>
+  .announcement1_section {
+    position: relative;
+    padding: 0;
+    margin: 143px 0 0 0;
+  }
+
+  .announcement1_inner {
+    display: flex;
+    background-color: #c4161c;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+
+  .announcement1_inner a {
+    text-decoration: none !important;
+    outline: none;
+    color: #fff;
+    margin: 0 15px;
+    font-size: 1rem;
+    transition: color 0.3s ease;
+  }
+
+  .announcement1_inner a:hover {
+    color: #fff;
+  }
+
+  .announcement1_section marquee {
+    color: #fff;
+    padding: 10px 0;
+    line-height: normal;
+  }
+
+  .separator {
+    color: #fff;
+    margin: 0 10px;
+  }
+
+  @media screen and (max-width: 576px) {
+    .announcement1_inner a {
+      font-size: 0.8rem;
+      margin: 0 8px;
+    }
+    .separator {
+      margin: 0 5px;
+    }
+    .announcement1_section {
+      margin: 92px 0 0 0;
+    }
+  }
+  /*  @media screen and (max-width: 576px) {*/
+  /*  .separator {*/
+  /*    margin: 0 5px;*/
+  /*  }*/
+  /*  .announcement1_section {*/
+  /*    margin: 92px 0 0 0;*/
+  /*  }*/
+  /*}*/
+
+  @media screen and (max-width: 768px) {
+    .announcement1_inner a {
+      font-size: 0.9rem;
+    }
+  }
+  
+  @media screen and (max-width: 1300px) {
+    .announcement1_section {
+      margin: 162px 0 0 0;
+    }
+  }
+  @media screen and (max-width: 992px) {
+    .announcement1_section {
+      margin: 100px 0 0 0;
+    }
+  }
+</style>
+
+    <main>
+        <div class="middle_box">
+            <div class="hero_section">
+                <div class="announcement1_section">
+                    <div class="container-fluid p-0">
+                        <div class="announcement1_inner">
+                            <marquee
+                            behavior="scroll"
+                            direction="left"
+                            scrollamount="5"
+                            onmouseover="this.stop();"
+                            onmouseout="this.start();"
+                            >
+                            <a target="_blank" href="https://set2025.ishinfosys.com/SETFINPIRE25SULT/"> Click here to check the Second Merit List for BCA/BBA(IT) Batch 2025-2029 </a>
+                            <span class="separator"></span>
+                            <!--<a target="_blank" href="https://set2025.ishinfosys.com/SICSRUGY25/Docupld/Index.aspx">Click Here to Upload the documents for Online PI Process for BCA & BBA(IT) batch 2025-2029</a>-->
+                            </marquee>
+                        </div>
+                    </div>
+                </div>
+                <div class="hero_section_inner owl-carousel">
+                    <!--<div class="item active">-->
+                    <!--    <div class="banner_slide">-->
+                    <!--        <a href=" https://scri.siu.edu.in/"> -->
+                    <!--            <img class="img-fluid" width="1440" height="587" src="https://www.sicsr.ac.in/assets/images/banner/New_Project.webp" alt="desktop banner image">-->
+                    <!--        </a>-->
+                    <!--    </div>-->
+                    <!--</div>-->
+                    <!--<div class="item">-->
+                    <!--    <div class="banner_slide">-->
+                    <!--        <picture>-->
+                    <!--            <source media="(max-width: 767px)" srcset="https://www.sicsr.ac.in/assets/images/banner/mobile-banner.webp">-->
+                    <!--            <img class="img-fluid" width="1440" height="587" src="https://www.sicsr.ac.in/assets/images/banner/banner.webp" alt="banner image">-->
+                    <!--        </picture>-->
+                    <!--        <div class="container">-->
+                    <!--            <div class="banner-content">-->
+                    <!--                <div class="first_heading">-->
+                    <!--                    Symbiosis Institute of-->
+                    <!--                </div>-->
+                    <!--                <div class="second_heading">-->
+                    <!--                    Computer Studies-->
+                    <!--                </div>-->
+                    <!--                <div class="third_heading">-->
+                    <!--                    & Research <span>(SICSR)</span>-->
+                    <!--                </div>-->
+                    <!--                <div class="banner_text">-->
+                    <!--                    The first Institutes in Maharashtra to offer high quality computer education.-->
+                    <!--                </div>-->
+                    <!--            </div>-->
+                    <!--        </div>-->
+                    <!--        <div class="banner_element1 banner_element_icon">-->
+                    <!--            <img src="https://www.sicsr.ac.in/assets/images/home/design-element1.png " alt="banner annimation image">-->
+                    <!--        </div>-->
+                    <!--        <div class="banner_element2 banner_element_icon">-->
+                    <!--            <img src="https://www.sicsr.ac.in/assets/images/home/design-element2.png " alt="banner annimation image">-->
+                    <!--        </div>-->
+                    <!--        <div class="banner_element3 banner_element_icon">-->
+                    <!--            <img src="https://www.sicsr.ac.in/assets/images/home/design-element3.png " alt="banner annimation image">-->
+                    <!--        </div>-->
+                    <!--    </div>-->
+                    <!--</div>-->
+                    <div class="item active">
+                        <div class="banner_slide">
+                            <img class="img-fluid" width="1440" height="587" src="https://www.sicsr.ac.in/assets/images/banner/sicsr_banner1.webp" alt="desktop banner image">
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="banner_slide">
+                            <img class="img-fluid" width="1440" height="587" src="https://www.sicsr.ac.in/assets/images/banner/sicsr_banner2.webp" alt="desktop banner image">
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="banner_slide">
+                            <img class="img-fluid" width="1440" height="587" src="https://www.sicsr.ac.in/assets/images/banner/sicsr_banner3.webp" alt="desktop banner image">
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="banner_slide">
+                            <img class="img-fluid" width="1440" height="587" src="https://www.sicsr.ac.in/assets/images/banner/sicsr_banner4.webp" alt="desktop banner image">
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="banner_slide">
+                            <img class="img-fluid" width="1440" height="587" src="https://www.sicsr.ac.in/assets/images/banner/sicsr_banner5.webp" alt="desktop banner image">
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="banner_slide">
+                            <img class="img-fluid" width="1440" height="587" src="https://www.sicsr.ac.in/assets/images/banner/sicsr_banner6.webp" alt="desktop banner image">
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="banner_slide">
+                            <img class="img-fluid" width="1440" height="587" src="https://www.sicsr.ac.in/assets/images/banner/sicsr_banner7.webp" alt="desktop banner image">
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="banner_slide">
+                            <img class="img-fluid" width="1440" height="587" src="https://www.sicsr.ac.in/assets/images/banner/sicsr_banner8.webp" alt="desktop banner image">
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="banner_slide">
+                            <img class="img-fluid" width="1440" height="587" src="https://www.sicsr.ac.in/assets/images/banner/sicsr_banner9.webp" alt="desktop banner image">
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="banner_slide">
+                            <img class="img-fluid" width="1440" height="587" src="https://www.sicsr.ac.in/assets/images/banner/sicsr_banner10.webp" alt="desktop banner image">
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="banner_slide">
+                            <img class="img-fluid" width="1440" height="587" src="https://www.sicsr.ac.in/assets/images/banner/sicsr_banner11.webp" alt="desktop banner image">
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="banner_slide">
+                            <img class="img-fluid" width="1440" height="587" src="https://www.sicsr.ac.in/assets/images/banner/sicsr_banner12.webp" alt="desktop banner image">
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="banner_slide">
+                            <img class="img-fluid" width="1440" height="587" src="https://www.sicsr.ac.in/assets/images/banner/sicsr_banner13.webp" alt="desktop banner image">
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="banner_slide">
+                            <img class="img-fluid" width="1440" height="587" src="https://www.sicsr.ac.in/assets/images/banner/sicsr_banner14.webp" alt="desktop banner image">
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="banner_slide">
+                            <img class="img-fluid" width="1440" height="587" src="https://www.sicsr.ac.in/assets/images/banner/sicsr_banner15.webp" alt="desktop banner image">
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="banner_slide">
+                            <img class="img-fluid" width="1440" height="587" src="https://www.sicsr.ac.in/assets/images/banner/sicsr_banner16.webp" alt="desktop banner image">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="announcement_section">
+                <div class="container-fluid p-0">
+                    <div class="announcement_inner">
+                        <div class="announcement_icon">
+                            <img class="img-fluid " src="https://www.sicsr.ac.in/assets/images/home/announcement1.png" alt="announcement icon">
+                        </div>
+                        <marquee>Toshali Kritika from BCA 2021-2024 batch took part in the United Nations Human Rights Council at the Symbiosis International MUN Conference held between 11th and 13th February 2022. She received the High Commendation Award for her performance.</marquee>
+                    </div>
+                </div>
+            </div>
+            <div class="main_links">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="main_links_inner">
+                                <!--<a target="_blank" href="https://snap2024.ishinfosys.com/SNAPGEPISlotbookingY25/">Click here to download the call letter for online ge-pi process for mba-it and mba-dt batch 2025-27</a>-->
+                                <a target="_blank" href="https://set2025.ishinfosys.com/SETFINPIRE25SULT/">Click here to check the Second Merit List for BCA/BBA(IT) Batch 2025-2029</a>
+                                <!--<a target="_blank" href="https://set2025.ishinfosys.com/SICSRUGY25/Docupld/Index.aspx">Click Here to Upload the documents for Online PI Process for BCA & BBA(IT) batch 2025-2029</a>-->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="about_us_section animated-heading">
+                <div class="container">
+                    <div class="about_us_inner">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="about_us_img">
+                                    <!-- <img class="img-fluid d-md-none" width="548" height="528" src="https://www.sicsr.ac.in/assets/images/home/about_us_mobile.webp" alt="about image">
+                                    <img class="img-fluid d-none d-md-block" width="548" height="528" src="https://www.sicsr.ac.in/assets/images/home/about-us.webp" alt="about image"> -->
+                                    <picture>
+                                        <source media="(max-width: 767px)" srcset="https://www.sicsr.ac.in/assets/images/home/Group_68.webp">
+                                        <img class="img-fluid" width="548" height="528" src="https://www.sicsr.ac.in/assets/images/home/Group_68.webp" alt="about image">
+                                    </picture>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="about_us_content">
+                                    <div class="about_us_content_inner">
+                                        <h1 class="heading">
+                                            <div class="heading_inner">
+                                                About <span>SICSR</span>
+                                            </div> 
+                                            <svg width="250" height="8" viewBox="0 0 250 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M206.914 3.0923C151.603 6.70277 45.9252 5.26527 0 4.09521V6.51891C149.499 11.0654 228.958 4.06735 250 0L206.914 3.0923Z" fill="#C4161C"/>
+                                            </svg>                                                                     
+                                        </h1>
+                                        <div class="section_text">
+                                            Symbiosis Institute of Computer Studies and Research (SICSR), celebrating its 38th year was one of the first Institutes in Maharashtra to offer high quality computer education. SICSR is located in the heart of Pune City. Our location, our broad portfolio of academic IT programmes, our talented and diverse student body, and our dedicated faculty members work together to create an educational experience that is relevant, enriching, and uniquely symbiotic. SICSR has an outstanding IT infrastructure available to support the programmes besides its excellent book collection and reference library. If you are considering IT education, we invite you to explore SICSR.
+                                        </div>
+                                        <div class="explore_more_btn">
+                                            <a href="https://www.sicsr.ac.in/aboutsicsr"> 
+                                                <span>Explore More</span>
+                                                <svg width="27" height="16" viewBox="0 0 27 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M26.7071 8.70711C27.0976 8.31658 27.0976 7.68342 26.7071 7.29289L20.3431 0.928932C19.9526 0.538408 19.3195 0.538408 18.9289 0.928932C18.5384 1.31946 18.5384 1.95262 18.9289 2.34315L24.5858 8L18.9289 13.6569C18.5384 14.0474 18.5384 14.6805 18.9289 15.0711C19.3195 15.4616 19.9526 15.4616 20.3431 15.0711L26.7071 8.70711ZM0 9H26V7H0V9Z" fill="#FFCC00"/>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="our_programmes_section">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-md-4 our_programmes_heading">
+                            <div class="our_programmes_inner">
+                                <div class="our_programmes_content">
+                                    <div class="heading">
+                                        <div class="heading_inner">
+                                            Our <span>Programmes</span>
+                                        </div> 
+                                        <svg width="250" height="8" viewBox="0 0 250 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M206.914 3.0923C151.603 6.70277 45.9252 5.26527 0 4.09521V6.51891C149.499 11.0654 228.958 4.06735 250 0L206.914 3.0923Z" fill="#FFCC00"/>
+                                        </svg>                                                                                                            
+                                    </div>
+                                    <div class="section_text">
+                                        The institute reviews its course content depending on current industry needs, with technology-enabled learning as a crucial part of this experience.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6 p-0 programmes_card1">
+                            <div class="our_programmes_card">                            
+                                <img class="img-fluid" width="430" height="530" src="https://www.sicsr.ac.in/assets/images/home/Programmes_UG.webp" alt="UG Programme" >
+                                <div class="programmes_card_content">
+                                    <div class="card_heading">
+                                        Undergraduate <br> Programmes
+                                    </div>
+                                    <div class="programmes_card_btn">
+                                        <a class="pro_card_btn" href="https://www.sicsr.ac.in/programmes/bca/overview">BCA</a>
+                                        <!-- <a class="pro_card_btn" href="https://www.sicsr.ac.in/board_of_directors">BCA - Honours</a> -->
+                                        <a class="pro_card_btn" href="https://www.sicsr.ac.in/programmes/bba-it/overview">BBA (IT)</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6 p-0 programmes_card2">
+                            <div class="our_programmes_card">                            
+                                <img class="img-fluid" width="430" height="530" src="https://www.sicsr.ac.in/assets/images/home/Programmes_PG.webp" alt="PG Programme" >
+                                <div class="programmes_card_content">
+                                    <div class="card_heading">
+                                        Postgraduate <br> Programmes
+                                    </div>
+                                    <div class="programmes_card_btn">
+                                        <a class="pro_card_btn" href="https://www.sicsr.ac.in/programmes/msc-ca/overview">MSc (CA)</a>
+                                        <a class="pro_card_btn" href="https://www.sicsr.ac.in/programmes/mba-it/overview">MBA (IT)</a>
+                                        <a class="pro_card_btn" href="https://www.sicsr.ac.in/programmes/mba-dt/overview">MBA (DT)</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="top_recruiters_section">
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-md-12">
+                            <div class="heading text-center heading_center">
+                                <div class="heading_inner">
+                                    Top <span>Recruiters</span>
+                                </div> 
+                                <svg width="250" height="8" viewBox="0 0 250 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M206.914 3.0923C151.603 6.70277 45.9252 5.26527 0 4.09521V6.51891C149.499 11.0654 228.958 4.06735 250 0L206.914 3.0923Z" fill="#C4161C"/>
+                                </svg>                                                                     
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="recruiters_slider owl-carousel">
+                                <div class="item">
+                                    <img src="https://www.sicsr.ac.in/assets/images/home/logo1.png" alt="recruiter logo" >
+                                </div>
+                                <div class="item">
+                                    <img src="https://www.sicsr.ac.in/assets/images/home/logo2.png" alt="recruiter logo" >
+                                </div>
+                                <div class="item">
+                                    <img src="https://www.sicsr.ac.in/assets/images/home/logo3.png" alt="recruiter logo" >
+                                </div>
+                                <div class="item">
+                                    <img src="https://www.sicsr.ac.in/assets/images/home/logo4.png" alt="recruiter logo" >
+                                </div>
+                                <div class="item">
+                                    <img src="https://www.sicsr.ac.in/assets/images/home/logo5.png" alt="recruiter logo" >
+                                </div>
+                                <div class="item">
+                                    <img src="https://www.sicsr.ac.in/assets/images/home/logo6.png" alt="recruiter logo" >
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="news_rankings_section">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-lg-7 p-0">
+                            <div class="news_box">
+                                <div class="news_box_inner">
+                                    <div class="heading">
+                                        <div class="heading_inner">
+                                            Top <span>News</span>
+                                        </div> 
+                                        <svg width="250" height="8" viewBox="0 0 250 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M206.914 3.0923C151.603 6.70277 45.9252 5.26527 0 4.09521V6.51891C149.499 11.0654 228.958 4.06735 250 0L206.914 3.0923Z" fill="#C4161C"/>
+                                        </svg>                                                                     
+                                    </div>
+                                    <a href="#">
+                                        <div class="inner_news">
+                                            <div class="news_img">
+                                                <img class="img-fluid" src="https://www.sicsr.ac.in/assets/images/home/news-1.webp" alt="news image" >
+                                            </div>
+                                            <div class="news_content">
+                                                <!-- <div class="news_date">
+                                                    09 December 2023
+                                                </div>
+                                                <div class="sub_heading">
+                                                    It gives us immense pleasure to invite you for...
+                                                </div> -->
+                                                <div class="news_text">
+                                                Toshali Kritika from BCA 2021-2024 batch took part in the United Nations Human Rights Council at the Symbiosis International MUN Conference held between 11th and 13th February 2022. She received the High Commendation Award for her performance.
+                                                </div>
+                                                <!-- <div class="news_time_location">
+                                                    <div class="news_time">
+                                                        Time: <span> 06:00 pm onwards</span>
+                                                    </div>
+                                                    <div class="news_location">
+                                                        Venue: <span> Pune</span>
+                                                    </div>
+                                                </div> -->
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <a href="#">
+                                        <div class="inner_news">
+                                            <div class="news_img">
+                                                <img class="img-fluid" src="https://www.sicsr.ac.in/assets/images/home/news-2.webp" alt="news image" >
+                                            </div>
+                                            <div class="news_content">
+                                                <!-- <div class="news_date">
+                                                    09 December 2023
+                                                </div>
+                                                <div class="sub_heading">
+                                                    It gives us immense pleasure to invite you for...
+                                                </div> -->
+                                                <div class="news_text">
+                                                Ms. Shatakshi Vishwakarma, Chair, Pravidhi- The SICSR IEEE Student Branch, from BCA Semester IV, Batch 2020-23 was selected as Design Team Lead at IEEE Pune Section Students Activities Committee 2022.
+                                                </div>
+                                                <!-- <div class="news_time_location">
+                                                    <div class="news_time">
+                                                        Time: <span> 06:00 pm onwards</span>
+                                                    </div>
+                                                    <div class="news_location">
+                                                        Venue: <span> Pune</span>
+                                                    </div>
+                                                </div> -->
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <div class="explore_more_btn">
+                                        <a href="https://www.sicsr.ac.in/news"> 
+                                            <span>Explore More</span>
+                                            <svg width="27" height="16" viewBox="0 0 27 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M26.7071 8.70711C27.0976 8.31658 27.0976 7.68342 26.7071 7.29289L20.3431 0.928932C19.9526 0.538408 19.3195 0.538408 18.9289 0.928932C18.5384 1.31946 18.5384 1.95262 18.9289 2.34315L24.5858 8L18.9289 13.6569C18.5384 14.0474 18.5384 14.6805 18.9289 15.0711C19.3195 15.4616 19.9526 15.4616 20.3431 15.0711L26.7071 8.70711ZM0 9H26V7H0V9Z" fill="#FFCC00"/>
+                                            </svg>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-5 p-0">
+                            <div class="rankings_box">
+                                <div class="heading">
+                                <div class="heading_inner">
+                                        Top <span>Rankings</span>
+                                </div> 
+                                    <svg width="250" height="8" viewBox="0 0 250 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M206.914 3.0923C151.603 6.70277 45.9252 5.26527 0 4.09521V6.51891C149.499 11.0654 228.958 4.06735 250 0L206.914 3.0923Z" fill="white"/>
+                                    </svg>                                
+                                </div>
+                                <ul>
+                                    <li><a target="blank" href="https://www.outlookindia.com/education/outlook-icare-rankings-2022-top-134-bca-institutes-in-india-magazine-205833">
+                                        Ranked 2 India’s Top BCA Colleges 2023 (INDIA TODAY, OUTLOOK ICARE)</a></li>
+                                    <li>Ranked #3 India’s Top 10 BCA Colleges of India-2023 – (India Today-2023)</li>
+                                    <li>Ranked #3 Ranks & Score of Colleges for BCA of India 2023 (India Today-2023)</li>
+                                    <li>Ranked #4 Top B-Schools of Eminence for BBA by CSR-GHRDC-2023</li>
+                                    <li style="border-bottom:none;">Ranked #7 Top 10 Emerging Colleges BBA of India-2023 (India Today-2023)</li>
+                                </ul>
+                                <div class="explore_more_btn">
+                                    <a href="https://www.sicsr.ac.in/rankings"> 
+                                        <span>Explore More</span>
+                                        <svg width="27" height="16" viewBox="0 0 27 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M26.7071 8.70711C27.0976 8.31658 27.0976 7.68342 26.7071 7.29289L20.3431 0.928932C19.9526 0.538408 19.3195 0.538408 18.9289 0.928932C18.5384 1.31946 18.5384 1.95262 18.9289 2.34315L24.5858 8L18.9289 13.6569C18.5384 14.0474 18.5384 14.6805 18.9289 15.0711C19.3195 15.4616 19.9526 15.4616 20.3431 15.0711L26.7071 8.70711ZM0 9H26V7H0V9Z" fill="#FFCC00"/>
+                                        </svg>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="highlights_section">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="heading text-center heading_center">
+                                <div class="heading_inner">
+                                    Placement <span> Highlights</span>
+                                </div> 
+                                <svg width="250" height="8" viewBox="0 0 250 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M206.914 3.0923C151.603 6.70277 45.9252 5.26527 0 4.09521V6.51891C149.499 11.0654 228.958 4.06735 250 0L206.914 3.0923Z" fill="#C4161C"/>
+                                </svg>                                                                     
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="placement_highlights_inner">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <div class="highlights_box">
+                                            <a href="">Overall Internship /Placement Rate for eligible students: <span>100 %</span></a>
+                                            <a href="">Highest Package Offered: <span>₹23.50 LPA</span></a>
+                                            <a href=""><span>Top Recruiters</span>: Accenture, Deloitte,  EY, PwC,PERSISTENT SYSTEMS, Veritas, Morgan Stanley and many more…</a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="highlights_box highlights_box1">
+                                            <a href=""><span>Startup Support</span>: Assistance for entrepreneurial students.</a>
+                                            <a href="">Panel Discussions: Expert-led sessions on <span>industry trends</span>.</a>
+                                            <a href=""><span>100% Placement </span>and Internship Assistance Comprehensive guidance and support.</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="student_what_say_section">
+                <div class="container">
+                    <div class="student_what_inner">
+                        <div class="heading text-center heading_center">
+                            <div class="heading_inner">
+                                What <span> Students Say</span>
+                            </div> 
+                            <svg width="250" height="8" viewBox="0 0 250 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M206.914 3.0923C151.603 6.70277 45.9252 5.26527 0 4.09521V6.51891C149.499 11.0654 228.958 4.06735 250 0L206.914 3.0923Z" fill="#C4161C"/>
+                            </svg>
+                        </div>
+                        <div class="element4">
+                            <img width="210" height="210" src="https://www.sicsr.ac.in/assets/images/home/testimonials_circle.webp" alt="testimonial annimation image" >
+                        </div>
+                        <div class="row justify-content-center pt-2">
+                            <div class="col-lg-11 col-md-12">
+                                <div class="student_slider">
+                                    <ul class="nav nav-tabs student_tab_slider owl-carousel" id="myTab" role="tablist">
+                                        <li class="nav-item" role="tab">
+                                            <button class="nav-link active" id="student_tab1" data-bs-toggle="tab" data-bs-target="#student_tabslide1" type="button" role="tab" aria-controls="home" aria-selected="true"><img src="https://www.sicsr.ac.in/assets/images/home/student1.webp" alt="testimonial student profile" ></button>
+                                        </li>
+                                        <li class="nav-item" role="tab">
+                                            <button class="nav-link" id="student_tab2" data-bs-toggle="tab" data-bs-target="#student_tabslide2" type="button" role="tab" aria-controls="profile" aria-selected="false"><img src="https://www.sicsr.ac.in/assets/images/home/student6.webp" alt="testimonial student profile" ></button>
+                                        </li>
+                                        <li class="nav-item" role="tab">
+                                            <button class="nav-link" id="student_tab3" data-bs-toggle="tab" data-bs-target="#student_tabslide3" type="button" role="tab" aria-controls="contact" aria-selected="false"><img src="https://www.sicsr.ac.in/assets/images/home/student7.webp" alt="testimonial student profile" ></button>
+                                        </li>
+                                        <li class="nav-item" role="tab">
+                                            <button class="nav-link" id="student_tab4" data-bs-toggle="tab" data-bs-target="#student_tabslide4" type="button" role="tab" aria-controls="contact" aria-selected="false"><img src="https://www.sicsr.ac.in/assets/images/home/student8.webp" alt="testimonial student profile" ></button>
+                                        </li>
+                                        <li class="nav-item" role="tab">
+                                            <button class="nav-link" id="student_tab5" data-bs-toggle="tab" data-bs-target="#student_tabslide5" type="button" role="tab" aria-controls="contact" aria-selected="false"><img src="https://www.sicsr.ac.in/assets/images/home/student5.webp" alt="testimonial student profile" ></button>
+                                        </li>
+                                        <li class="nav-item" role="tab">
+                                            <button class="nav-link" id="student_tab6" data-bs-toggle="tab" data-bs-target="#student_tabslide6" type="button" role="tab" aria-controls="contact" aria-selected="false"><img src="https://www.sicsr.ac.in/assets/images/home/student2.webp" alt="testimonial student profile" ></button>
+                                        </li>
+                                        <li class="nav-item" role="tab">
+                                            <button class="nav-link" id="student_tab7" data-bs-toggle="tab" data-bs-target="#student_tabslide7" type="button" role="tab" aria-controls="contact" aria-selected="false"><img src="https://www.sicsr.ac.in/assets/images/home/student3.webp" alt="testimonial student profile" ></button>
+                                        </li>
+                                        <li class="nav-item" role="tab">
+                                            <button class="nav-link" id="student_tab8" data-bs-toggle="tab" data-bs-target="#student_tabslide8" type="button" role="tab" aria-controls="contact" aria-selected="false"><img src="https://www.sicsr.ac.in/assets/images/home/student4.webp" alt="testimonial student profile" ></button>
+                                        </li>
+                                        <li class="nav-item" role="tab">
+                                            <button class="nav-link" id="student_tab9" data-bs-toggle="tab" data-bs-target="#student_tabslide9" type="button" role="tab" aria-controls="contact" aria-selected="false"><img src="https://www.sicsr.ac.in/assets/images/home/student9.webp" alt="testimonial student profile" ></button>
+                                        </li>
+                                    </ul>        
+                                    <div class="tab-content" id="myTabContent">
+                                        <div class="tab-pane fade show active" id="student_tabslide1" role="tabpanel" aria-labelledby="student_tab1">
+                                            <div class="student_msg_box">
+                                                <div class="student_msg_left">
+                                                    <div class="sub_heading">
+                                                        Ajinkya Vaze
+                                                    </div>
+                                                    <div class="student_courses">
+                                                        MBA-IT (Batch 2016-2018) Alepo
+                                                    </div>
+                                                </div>
+                                                <div class="vh">
+                                                </div>
+                                                <div class="student_msg_right">
+                                                    <div class="section_text">
+                                                          I am proud to be part of SICSR…..There are numerous factors which stands out SICSR from other colleges….. Esteemed and experienced full time as well as visiting faculty is one of the main thing which helps students to stay on right track and gain knowledge. Cutting edge curriculum which is always updated as per the industry needs is another aspect which helps students stay relevant with industry trends. Moreover guest lectures, internal events gives opportunities to students to get connected with industry experts and showcase their talent. Support from placement cell and alumni connect sessions before placements are definitely helpful to gain real insights for staying ahead in this job market and to achieve success. I enjoyed my 2 years while doing My MBA here. <img class="testimonials2" src="https://www.sicsr.ac.in/assets/images/home/testimonials2.svg" alt="quotes icon" >
+                                                    </div>
+                                                    <div class="explore_more_btn">
+                                                        <a href="https://www.sicsr.ac.in/testimonials#Ajinkya_Vaze"> 
+                                                            <span>Read More</span>
+                                                            <svg width="27" height="16" viewBox="0 0 27 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                <path d="M26.7071 8.70711C27.0976 8.31658 27.0976 7.68342 26.7071 7.29289L20.3431 0.928932C19.9526 0.538408 19.3195 0.538408 18.9289 0.928932C18.5384 1.31946 18.5384 1.95262 18.9289 2.34315L24.5858 8L18.9289 13.6569C18.5384 14.0474 18.5384 14.6805 18.9289 15.0711C19.3195 15.4616 19.9526 15.4616 20.3431 15.0711L26.7071 8.70711ZM0 9H26V7H0V9Z" fill="#FFCC00"></path>
+                                                            </svg>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div> 
+                                        </div>
+                                        <div class="tab-pane fade" id="student_tabslide2" role="tabpanel" aria-labelledby="student_tab2">
+                                            <div class="student_msg_box">
+                                                <div class="student_msg_left">
+                                                    <div class="sub_heading">
+                                                        Luv Shah
+                                                    </div>
+                                                    <div class="student_courses">
+                                                        MBA-IT (Batch 2018-2020) Scanpoint Geomatics Ltd.
+                                                    </div>
+                                                </div>
+                                                <div class="vh"></div>
+                                                <div class="student_msg_right">
+                                                    <div class="section_text">
+                                                          Whenever I think of SICSR, the word family comes into my mind. These 2 years have been the biggest learning curve of my life. I was part of SICSR from 2018 to 2020, where I not only learned about management skills in IT but also about how to survive and have an edge in the industry with throat slicing competition. The course structure is manufactured according to current industry needs and the faculties who convey immense industry experience taught us really very well about technical as well as soft skills. Last but not the least, the placement cell has been very helpful to all the students, specifically Mr. Sanket Kurdukar, who has been working day and night to help students get placed in the industry. Likewise, he has kept up great associations with organizations and students as well. Altogether, my tenure with SICSR has been very helpful to me for my personal and professional growth. I thank each and every one at SICSR for making this journey beautiful.  <img class="testimonials2" src="https://www.sicsr.ac.in/assets/images/home/testimonials2.svg" alt="quotes icon" >
+                                                    </div>
+                                                    <div class="explore_more_btn">
+                                                        <a href="https://www.sicsr.ac.in/testimonials#Luv_Shah"> 
+                                                            <span>Read More</span>
+                                                            <svg width="27" height="16" viewBox="0 0 27 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                <path d="M26.7071 8.70711C27.0976 8.31658 27.0976 7.68342 26.7071 7.29289L20.3431 0.928932C19.9526 0.538408 19.3195 0.538408 18.9289 0.928932C18.5384 1.31946 18.5384 1.95262 18.9289 2.34315L24.5858 8L18.9289 13.6569C18.5384 14.0474 18.5384 14.6805 18.9289 15.0711C19.3195 15.4616 19.9526 15.4616 20.3431 15.0711L26.7071 8.70711ZM0 9H26V7H0V9Z" fill="#FFCC00"></path>
+                                                            </svg>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div> 
+                                        </div>
+                                        <div class="tab-pane fade" id="student_tabslide3" role="tabpanel" aria-labelledby="student_tab3">
+                                            <div class="student_msg_box">
+                                                <div class="student_msg_left">
+                                                    <div class="sub_heading">
+                                                        Deep Sarkar
+                                                    </div>
+                                                    <div class="student_courses">
+                                                        MBA (IT) (2008-2010) Business Manager at EVERSANA
+                                                    </div>
+                                                </div>
+                                                <div class="vh"></div>
+                                                <div class="student_msg_right">
+                                                    <div class="section_text">
+                                                          SICSR MBA (IT) has been phenomenal for my career journey after my engineering… The blend of IT and business helped me to get a clear picture of the IT process and technologies in fortune 500 companies. My specialization in DW and BI helped me to have a strong foundation of DW and statistics which was instrumental in grasping technology trends in Big Data and machine learning. SICSR has been one of the oldest institutions of the symbiosis family hence the Alumni presence has been global and deep-rooted to all top-notch business organisations. <img class="testimonials2" src="https://www.sicsr.ac.in/assets/images/home/testimonials2.svg" alt="quotes icon" >
+                                                    </div>
+                                                    <div class="explore_more_btn">
+                                                        <a href="https://www.sicsr.ac.in/testimonials#Deep_Sarkar"> 
+                                                            <span>Read More</span>
+                                                            <svg width="27" height="16" viewBox="0 0 27 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                <path d="M26.7071 8.70711C27.0976 8.31658 27.0976 7.68342 26.7071 7.29289L20.3431 0.928932C19.9526 0.538408 19.3195 0.538408 18.9289 0.928932C18.5384 1.31946 18.5384 1.95262 18.9289 2.34315L24.5858 8L18.9289 13.6569C18.5384 14.0474 18.5384 14.6805 18.9289 15.0711C19.3195 15.4616 19.9526 15.4616 20.3431 15.0711L26.7071 8.70711ZM0 9H26V7H0V9Z" fill="#FFCC00"></path>
+                                                            </svg>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div> 
+                                        </div>
+                                        <div class="tab-pane fade" id="student_tabslide4" role="tabpanel" aria-labelledby="student_tab4">
+                                            <div class="student_msg_box">
+                                                <div class="student_msg_left">
+                                                    <div class="sub_heading">
+                                                        Asmita Kothari
+                                                    </div>
+                                                    <div class="student_courses">
+                                                        MBA-DT-Batch:2021-2023
+                                                    </div>
+                                                </div>
+                                                <div class="vh"></div>
+                                                <div class="student_msg_right">
+                                                    <div class="section_text">
+                                                        
+                                                        SICSR, Pune has been an instrumental platform in shaping my understanding of digital transformation during my MBA journey. The program’s comprehensive curriculum, industry-oriented approach, and adept faculty equipped me with invaluable insights and practical skills essential in navigating the evolving digital landscape. My experience at SICSR has not just been academically enriching but has also fostered a deep appreciation for the strategic nuances of digital transformation, preparing me to excel in this dynamic field. <img class="testimonials2" src="https://www.sicsr.ac.in/assets/images/home/testimonials2.svg" alt="quotes icon" >
+                                                    </div>
+                                                    <div class="explore_more_btn">
+                                                        <a href="https://www.sicsr.ac.in/testimonials#Asmita_kothari"> 
+                                                            <span>Read More</span>
+                                                            <svg width="27" height="16" viewBox="0 0 27 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                <path d="M26.7071 8.70711C27.0976 8.31658 27.0976 7.68342 26.7071 7.29289L20.3431 0.928932C19.9526 0.538408 19.3195 0.538408 18.9289 0.928932C18.5384 1.31946 18.5384 1.95262 18.9289 2.34315L24.5858 8L18.9289 13.6569C18.5384 14.0474 18.5384 14.6805 18.9289 15.0711C19.3195 15.4616 19.9526 15.4616 20.3431 15.0711L26.7071 8.70711ZM0 9H26V7H0V9Z" fill="#FFCC00"></path>
+                                                            </svg>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div> 
+                                        </div>
+                                        <div class="tab-pane fade" id="student_tabslide5" role="tabpanel" aria-labelledby="student_tab5">
+                                            <div class="student_msg_box">
+                                                <div class="student_msg_left">
+                                                    <div class="sub_heading">
+                                                        Margik Baxi
+                                                    </div>
+                                                    <div class="student_courses">
+                                                        MBA-DT,Batch:2021-2023
+                                                    </div>
+                                                </div>
+                                                <div class="vh"></div>
+                                                <div class="student_msg_right">
+                                                    <div class="section_text">
+                                                    Navigating through Symbiosis Institute of Computer Studies and Research’s MBA in Digital
+                                                    Transformation, I not only immersed myself in comprehensive digital strategies but also witnessed the tangible impact on my career trajectory. As a pilot batch student, I was pleasantly surprised by the unwavering commitment to placement support.The university’s extensive network and industry collaborations facilitated unparalleled opportunities. Securing placement in Veritas post-graduation was a seamless process, thanks to the personalized guidance and robust placement assistance.  <img class="testimonials2" src="https://www.sicsr.ac.in/assets/images/home/testimonials2.svg" alt="quotes icon" >
+                                                    </div>
+                                                    <div class="explore_more_btn">
+                                                        <a href="https://www.sicsr.ac.in/testimonials#Margik_baxi"> 
+                                                            <span>Read More</span>
+                                                            <svg width="27" height="16" viewBox="0 0 27 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                <path d="M26.7071 8.70711C27.0976 8.31658 27.0976 7.68342 26.7071 7.29289L20.3431 0.928932C19.9526 0.538408 19.3195 0.538408 18.9289 0.928932C18.5384 1.31946 18.5384 1.95262 18.9289 2.34315L24.5858 8L18.9289 13.6569C18.5384 14.0474 18.5384 14.6805 18.9289 15.0711C19.3195 15.4616 19.9526 15.4616 20.3431 15.0711L26.7071 8.70711ZM0 9H26V7H0V9Z" fill="#FFCC00"></path>
+                                                            </svg>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="tab-pane fade" id="student_tabslide6" role="tabpanel" aria-labelledby="student_tab6">
+                                            <div class="student_msg_box">
+                                                <div class="student_msg_left">
+                                                    <div class="sub_heading">
+                                                        Diwaker Jha
+                                                    </div>
+                                                    <div class="student_courses">
+                                                        MBA-IT,Batch:2021-2023
+                                                    </div>
+                                                </div>
+                                                <div class="vh"></div>
+                                                <div class="student_msg_right">
+                                                    <div class="section_text">
+                                                           I am immensely grateful for the transformative experience I had at Symbiosis Institute of Computer Studies and Research. The rigorous curriculum, seasoned faculty, and state-of-the-art facilities provided me with a holistic learning environment. The college’s emphasis on practical skills and industry insights truly prepared me for the professional world. The robust placement support exceeded my expectations, opening doors to promising opportunities. I am proud to be an alumnus of Symbiosis Institute of Computer Studies and Research, where education meets excellence, and career aspirations become reality. <img class="testimonials2" src="https://www.sicsr.ac.in/assets/images/home/testimonials2.svg" alt="quotes icon" >
+                                                    </div>
+                                                    <div class="explore_more_btn">
+                                                        <a href="https://www.sicsr.ac.in/testimonials#Diwaker_Jha"> 
+                                                            <span>Read More</span>
+                                                            <svg width="27" height="16" viewBox="0 0 27 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                <path d="M26.7071 8.70711C27.0976 8.31658 27.0976 7.68342 26.7071 7.29289L20.3431 0.928932C19.9526 0.538408 19.3195 0.538408 18.9289 0.928932C18.5384 1.31946 18.5384 1.95262 18.9289 2.34315L24.5858 8L18.9289 13.6569C18.5384 14.0474 18.5384 14.6805 18.9289 15.0711C19.3195 15.4616 19.9526 15.4616 20.3431 15.0711L26.7071 8.70711ZM0 9H26V7H0V9Z" fill="#FFCC00"></path>
+                                                            </svg>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div> 
+                                        </div>
+                                        <div class="tab-pane fade" id="student_tabslide7" role="tabpanel" aria-labelledby="student_tab7">
+                                            <div class="student_msg_box">
+                                                <div class="student_msg_left">
+                                                    <div class="sub_heading">
+                                                        Raj Shah
+                                                    </div>
+                                                    <div class="student_courses">
+                                                        MBA-IT,Batch:2021-2023
+                                                    </div>
+                                                </div>
+                                                <div class="vh"></div>
+                                                <div class="student_msg_right">
+                                                    <div class="section_text">
+                                                           Symbiosis Institute of Computer Studies and Research has been an amazing place for me to learn. The teachers are really good and make learning fun. The college helped me get ready for the working world with practical lessons. The placements were awesome too! The college’s support in finding job opportunities was fantastic. I got a great job thanks to their help. SICSR isn’t just a college; it’s a place that prepares you for success in computer studies and sets you up for a bright future. <img class="testimonials2" src="https://www.sicsr.ac.in/assets/images/home/testimonials2.svg" alt="quotes icon" >
+                                                    </div>
+                                                    <div class="explore_more_btn">
+                                                        <a href="https://www.sicsr.ac.in/testimonials#Raj_Shah"> 
+                                                            <span>Read More</span>
+                                                            <svg width="27" height="16" viewBox="0 0 27 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                <path d="M26.7071 8.70711C27.0976 8.31658 27.0976 7.68342 26.7071 7.29289L20.3431 0.928932C19.9526 0.538408 19.3195 0.538408 18.9289 0.928932C18.5384 1.31946 18.5384 1.95262 18.9289 2.34315L24.5858 8L18.9289 13.6569C18.5384 14.0474 18.5384 14.6805 18.9289 15.0711C19.3195 15.4616 19.9526 15.4616 20.3431 15.0711L26.7071 8.70711ZM0 9H26V7H0V9Z" fill="#FFCC00"></path>
+                                                            </svg>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div> 
+                                        </div>
+                                        <div class="tab-pane fade" id="student_tabslide8" role="tabpanel" aria-labelledby="student_tab8">
+                                            <div class="student_msg_box">
+                                                <div class="student_msg_left">
+                                                    <div class="sub_heading">
+                                                        Pravin Zinjad
+                                                    </div>
+                                                    <div class="student_courses">
+                                                        MBA-IT,Batch:2021-2023
+                                                    </div>
+                                                </div>
+                                                <div class="vh"></div>
+                                                <div class="student_msg_right">
+                                                    <div class="section_text">
+                                                    The MBA in Information Technology at SICSR Pune provided me with a multifaceted experience, both inside and outside the classroom. The biggest takeaway for me would be the insightful interactions I have had with some of the best industry experts, teaching faculties and fellow batch mates. There are so many options available to you, both academically and otherwise, that you can create the profession of <img class="testimonials2" src="https://www.sicsr.ac.in/assets/images/home/testimonials2.svg" alt="quotes icon" >
+                                                    </div>
+                                                    <div class="explore_more_btn">
+                                                        <a href="https://www.sicsr.ac.in/testimonials#Pravin_Zinjad"> 
+                                                            <span>Read More</span>
+                                                            <svg width="27" height="16" viewBox="0 0 27 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                <path d="M26.7071 8.70711C27.0976 8.31658 27.0976 7.68342 26.7071 7.29289L20.3431 0.928932C19.9526 0.538408 19.3195 0.538408 18.9289 0.928932C18.5384 1.31946 18.5384 1.95262 18.9289 2.34315L24.5858 8L18.9289 13.6569C18.5384 14.0474 18.5384 14.6805 18.9289 15.0711C19.3195 15.4616 19.9526 15.4616 20.3431 15.0711L26.7071 8.70711ZM0 9H26V7H0V9Z" fill="#FFCC00"></path>
+                                                            </svg>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div> 
+                                        </div>
+                                        <div class="tab-pane fade" id="student_tabslide9" role="tabpanel" aria-labelledby="student_tab9">
+                                            <div class="student_msg_box">
+                                                <div class="student_msg_left">
+                                                    <div class="sub_heading">
+                                                        Abhinav Anil
+                                                    </div>
+                                                    <div class="student_courses">
+                                                        MSc(2018-2020) Data Scientist at Senquire
+                                                    </div>
+                                                </div>
+                                                <div class="vh"></div>
+                                                <div class="student_msg_right">
+                                                    <div class="section_text">
+                                                           Having finished the MSc in Computer Application from SICSR, I can say the academics and the course coordinators have been very supportive and helpful with regard to my assignments and dissertation. SICSR also provided plenty of opportunities to network with pioneers from the industry and gain deep insights about trending technologies being developed for the market needs. There have been meetups, hands-on workshops and opportunities for research under guidance of expert faculty. I can say that the course has geared me up with the abilities required to become a professional data scientist. I simply will endorse the course to absolutely everyone. who is looking to build their career into Machine Learning and Artificial intelligence. A remarkable course that has transformed my hobby into a strong career foundation, without a doubt, it has become the best educational decision I have ever made! Also, I got a chance to meet various industrial people during my course in the meetup and got the chance to do research in the field of Data Science. <img class="testimonials2" src="https://www.sicsr.ac.in/assets/images/home/testimonials2.svg" alt="quotes icon" >
+                                                    </div>
+                                                    <div class="explore_more_btn">
+                                                        <a href="https://www.sicsr.ac.in/testimonials#Abhinav_Anil"> 
+                                                            <span>Read More</span>
+                                                            <svg width="27" height="16" viewBox="0 0 27 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                <path d="M26.7071 8.70711C27.0976 8.31658 27.0976 7.68342 26.7071 7.29289L20.3431 0.928932C19.9526 0.538408 19.3195 0.538408 18.9289 0.928932C18.5384 1.31946 18.5384 1.95262 18.9289 2.34315L24.5858 8L18.9289 13.6569C18.5384 14.0474 18.5384 14.6805 18.9289 15.0711C19.3195 15.4616 19.9526 15.4616 20.3431 15.0711L26.7071 8.70711ZM0 9H26V7H0V9Z" fill="#FFCC00"></path>
+                                                            </svg>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div> 
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="our_gallery_section">
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-md-12">
+                            <div class="heading text-center heading_center">
+                                <div class="heading_inner">
+                                    Our <span> Gallery</span>
+                                </div> 
+                                <svg width="250" height="8" viewBox="0 0 250 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M206.914 3.0923C151.603 6.70277 45.9252 5.26527 0 4.09521V6.51891C149.499 11.0654 228.958 4.06735 250 0L206.914 3.0923Z" fill="#C4161C"/>
+                                </svg>                                                                     
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row justify-content-center">
+                        <div class="col-md-10">
+                            <div class="our_gallery_inner owl-carousel">
+                                <div class="item">
+                                    <div class="gallery_img_box image-anime">
+                                        <a class="image_lighbox" data-fancybox="gallery1" data-src="https://www.sicsr.ac.in/assets/images/home/gallery-img-1.webp" data-caption="Gallery Photos">
+                                            <img class="img-fluid" src="https://www.sicsr.ac.in/assets/images/home/gallery-img-1.webp" alt="gallery image" >
+                                            <img class="img-fluid magnifying_icon" src="https://www.sicsr.ac.in/assets/images/home/search_icon.svg" alt="search icon" >
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <div class="gallery_img_box image-anime">
+                                        <a class="image_lighbox" data-fancybox="gallery1" data-src="https://www.sicsr.ac.in/assets/images/home/gallery-img-2.webp" data-caption="Gallery Photos">
+                                            <img class="img-fluid" src="https://www.sicsr.ac.in/assets/images/home/gallery-img-2.webp" alt="gallery image" >
+                                            <img class="img-fluid magnifying_icon" src="https://www.sicsr.ac.in/assets/images/home/search_icon.svg" alt="search icon" >
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <div class="gallery_img_box image-anime">
+                                        <a class="image_lighbox" data-fancybox="gallery1" data-src="https://www.sicsr.ac.in/assets/images/home/gallery-img-3.webp" data-caption="Gallery Photos">
+                                            <img class="img-fluid" src="https://www.sicsr.ac.in/assets/images/home/gallery-img-3.webp" alt="gallery image" >
+                                            <img class="magnifying_icon" src="https://www.sicsr.ac.in/assets/images/home/search_icon.svg" alt="search icon" >
+                                        </a>
+                                    </div>
+                                </div>
+                                <!-- <div class="item">
+                                    <div class="gallery_img_box image-anime">
+                                        <a class="image_lighbox" data-fancybox="gallery1" data-src="https://www.sicsr.ac.in/assets/images/home/gallery-img-4.webp" data-caption="Gallery Photos">
+                                            <img class="img-fluid" src="https://www.sicsr.ac.in/assets/images/home/gallery-img-4.webp" alt="gallery image" >
+                                            <img class="magnifying_icon" src="https://www.sicsr.ac.in/assets/images/home/search_icon.svg" alt="search icon" >
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <div class="gallery_img_box image-anime">
+                                        <a class="image_lighbox" data-fancybox="gallery1" data-src="https://www.sicsr.ac.in/assets/images/home/gallery-img-5.webp" data-caption="Gallery Photos">
+                                            <img class="img-fluid" src="https://www.sicsr.ac.in/assets/images/home/gallery-img-5.webp" alt="gallery image" >
+                                            <img class="magnifying_icon" src="https://www.sicsr.ac.in/assets/images/home/search_icon.svg" alt="search icon" >
+                                        </a>
+                                    </div>
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>            
+        </div>
+    </main>
+
+
+        <!-- Button trigger modal -->
+		<button type="button" class="caution_notice_btn" data-bs-toggle="modal" data-bs-target="#exampleModal">
+			Caution Notice
+		</button>
+
+		<!-- Modal -->
+		<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+			<div class="modal-dialog modal-xl">
+				<div class="modal-content">
+				<div class="modal-header">
+					<h5 class="modal-title" id="exampleModalLabel"><b>Caution Notice</b></h5>
+					<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+				</div>
+				<div class="modal-body">
+                    <p>Admission to all the courses and programmes at Symbiosis International University (SIU) are strictly on merit basis based on the criteria and processes prescribed by the University and assessment of individual performance in Symbiosis National Aptitude Test [SNAP] for Postgraduate Studies and Symbiosis Entrance Test [SET] for Undergraduate Studies.</p>
+                    <p>All aspirants / parents are hereby notified that some individuals / organisations are giving / making false and misleading advertisements / claims in newspapers, websites, social media platforms that they can ensure admission to Symbiosis International University and also charging heavy amount for the same. </p>
+                    <p>In this regard, SIU requests the aspirants / parents to refrain from entering into any transaction with such elements. SIU has not appointed any individual / agency / organisation to make such assurance on its behalf. It is a matter of Policy that SIU does not charge capitation fee for admission from students and this is widely and prominently published as well on all the relevant places like prospectus, website, SNAP Booklet, SET Booklet etc. </p>
+                    <p>Despite this Notice, if any aspirant / parents still proceeds with or enters into transaction with such elements, they would be doing so at their own risk and cost. SIU further notifies that any aspirant attempting to approach SIU for admission through or at the instances of such agents will be permanently debarred from admission to all the courses and programmes at Symbiosis International University.</p>
+				</div>
+				<div class="modal-footer justify-content-between">
+                    <div class="div">
+                        <b>BY ORDER</b> <br>
+                        <span>Registrar</span>
+                    </div>
+					<!-- <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button> -->
+				</div>
+				</div>
+			</div>
+		</div>
+
+
+            <footer class="mt-5" id="top">
+                <div class="container" style="position: relative; z-index: 5;">
+                    <div class="row">
+                        <div class="col-lg-4 col-md-6 footer_redbox">
+                            <div class="footer_innerbox ">
+                                <div class="row">
+                                    <div class="col-lg-12 footer_heading mb-3">SIU</div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-lg-12 footer_linkbox">
+                                        <a target="_blank" href="https://www.siu.edu.in/about-us/authorities-committees/board-management">Executive Council</a>
+                                        <a target="_blank" href="https://www.siu.edu.in/about-us/authorities-committees/finance-committee">Finance</a>
+                                        <a target="_blank" href="https://www.siu.edu.in/about-us/authorities-committees/planning-and-monitoring-board">Planning and Monitoring Board</a>
+                                        <a target="_blank" href="https://www.siu.edu.in/about-us/authorities-committees/board-of-constituents-and-university-development">Board of Constituents and University Development</a>
+                                        <a target="_blank" href="https://www.siu.edu.in/about-us/authorities-committees/university-sports-board">University of Sports Board</a>
+                                        <a target="_blank" href="https://www.sicsr.ac.in/assets/pdf/1099-Const-of-ARC-SB-Road.pdf">Campus Anti Ragging Committee</a>
+                                        <a target="_blank" href="https://www.siu.edu.in/about-us/why-us/student-wellbeing#antiRaggingPolicy">Anti Ragging Notifications</a>
+                                        <a target="_blank" href="https://www.sicsr.ac.in/assets/pdf/Hostel-Rules-and-Regulations.pdf">Hostels</a>
+                                        <a target="_blank" href="https://www.siu.edu.in/news">SIU News & Events</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6">
+                            <div class="footer_innerbox">
+                                <div class="row">
+                                    <div class="col-lg-12 footer_heading footer_heading_red mb-3">Quick Links</div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-lg-12 footer_linkbox mb-2">
+                                        <a href="https://www.sicsr.ac.in/privacy-policy">Privacy Policy</a>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-lg-12 footer_linkbox mb-2">
+                                        <a target="_blank" href="https://www.siu.edu.in/education-loans">Other Education Loan Schemes</a>
+                                        <a target="_blank" href="https://www.sicsr.ac.in/assets/pdf/1437_Re_constitution_of_Internal_Committee_S_B_Road-1.pdf">ICC Committee and notification</a>
+                                        <a href="https://www.sicsr.ac.in/ompi">OMPI Scores</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-5">
+                            <div class="footer_innerbox">
+                                <div class="row">
+                                    <div class="col-lg-12 footer_heading footer_heading_red mb-3">Contact</div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-lg-12 mb-2">
+                                        <a target="_blank" href="https://maps.app.goo.gl/7g4T4xkpfACbLXx48" class="footer_contactbox">
+                                            <img src="https://www.sicsr.ac.in/assets/images/location.png" alt="location icon" class="img-fluid">
+                                            <span>
+                                                Symbiosis Institute of Computer Studies and Research, 1st Floor, Atur Centre, Gokhale Cross Road, Model Colony, Pune -
+                                                411016.
+                                            </span>
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-12 mb-2">
+                                        <a href="mailto:admissions@sicsr.ac.in" class="footer_contactbox">
+                                            <img src="https://www.sicsr.ac.in/assets/images/email.png" alt="email icon" class="img-fluid">
+                                            <span>
+                                                admissions@sicsr.ac.in
+                                            </span>
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-12 mb-2">
+                                        <div href="" class="footer_contactbox">
+                                            <img src="https://www.sicsr.ac.in/assets/images/call.png" alt="call icon" class="img-fluid">
+                                            <span><a href="tel:(+91) 020 - 2567 5601">(+91) 020 - 2567 5601</a>  /  <a href="tel:(+91) 020 - 2567 5603">03</a></span>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-12 mb-4">
+                                        <a href="tel:(+91) 9075088779" class="footer_contactbox">
+                                            <img src="https://www.sicsr.ac.in/assets/images/call.png" alt="phone icon" class="img-fluid">
+                                            <span>
+                                                (+91) 9075088779<br>
+                                                <div style="color: #C4161C; font-size: 12px;">(Available from 9:30 a.m. IST to 6:00 p.m. IST)</div>
+                                            </span>
+                                        </a>
+                                    </div>
+                                    <div>For any grievance, please drop an email to <a href="mailto:grievance@sicsr.ac.in." style="color: #c4161c;">grievance@sicsr.ac.in.</a></div>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container-fluid pt-3 pb-3" style="background-color: #d9d9d9;position: relative;z-index: 5;">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-lg-9">
+                                        © 2025 Symbiosis Institute of Computer Studies and Research, All Rights Reserved.
+                                    </div>
+                                    <div class="col-lg-3">
+                                        <div class="footer_bottom_strip">
+                                            Crafted by 
+                                            <a target="_blank" class="red_link" href="https://www.evonix.co/">
+                                                <img style="max-height:16px;" width="66" height="16" src="https://www.sicsr.ac.in/assets/images/home/footer-logo.png" alt="Crafted by Evonix">
+                                            </a>
+                                        </div>                                    
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+
+            <!-- Geta.ai script -->
+            <script>
+              (function(w, d, s) {
+                  var f = d.getElementsByTagName(s)[0],
+                      j = d.createElement(s);
+                  j.async = true;
+                  j.onload = function() {
+                      var geta = window.GetA('YmFNNHFaQ2lwM1JKVHVTNTo5MjExZjUyN2RiMjYwZTkwMmYyMWQxMWExMDY2MWE4OGFmYjMyZDhkMTlhMDU3NDVhZmNiOGZmNzgxMTExMjBiMDA3ZGZmMjc3Mzk4ZDBlYzk2ZjY5MTQ2MDk1Y2I1OTE=', 203, "05675a19-3f19-4a62-9f27-39c89936fc1f");
+                  }
+                  j.src =
+                      'https://bot-frame.geta.ai/output.js'
+                  f.parentNode.insertBefore(j, f);
+              })(window, document, 'script');
+              </script>
+             <!-- Geta.ai script -->
+
+
+
+
+
+
+
+
+
+
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+   
+
+    <!-- Owl Scripts -->
+    <script>
+        $('.hero_section_inner').owlCarousel({
+            loop:true,
+            margin:10,
+            dots:true,
+            nav:false,
+            autoplay:true,
+            autoplayTimeout:3000,
+            autoplayHoverPause:false,
+            responsive:{
+                0:{
+                    items:1
+                },
+                600:{
+                    items:1
+                },
+                1000:{
+                    items:1
+                }
+            }
+        })
+        $('.recruiters_slider').owlCarousel({
+            loop:true,
+            margin:10,
+            nav:false,
+            dots:false,
+            autoplay:true,
+            autoplayTimeout:2000,
+            autoplayHoverPause:false,
+            responsive:{
+                0:{
+                    items:2
+                },
+                600:{
+                    items:3
+                },
+                1000:{
+                    items:6
+                }
+            }
+        })
+        $('.student_tab_slider').owlCarousel({
+            loop:true,
+            nav:true,
+            navigationText: ["", ""],
+            dots:true,
+            center:true,
+            // autoplay:true,
+            // autoplayTimeout:3000,
+            // autoplayHoverPause:false,
+            responsive:{
+                0:{
+                    items:3,
+                    margin:0,
+                },
+                600:{
+                    items:5,
+                    margin:0,
+                },
+                1000:{
+                    items:9,
+                    margin:40,
+                }
+            }
+        })
+        $('.our_gallery_inner').owlCarousel({
+            loop:true,
+            margin:20,
+            nav:true,
+            center: true, // Enable center active
+            dots:false,
+            autoplay:true,
+            autoplayTimeout:3000,
+            autoplayHoverPause:false,
+            responsive:{
+                0:{
+                    items:2
+                },
+                500:{
+                    items:3
+                },
+                600:{
+                    items:3
+                },
+                1000:{
+                    items:5
+                }
+            }
+        })
+        $('.gallery_inner_pages').owlCarousel({
+            loop:false,
+            margin:20,
+            nav:false,
+            center: false, // Enable center active
+            dots:false,
+            autoplay:true,
+            autoplayTimeout:3000,
+            autoplayHoverPause:false,
+            responsive:{
+                0:{
+                    items:2
+                },
+                500:{
+                    items:3
+                },
+                600:{
+                    items:3
+                },
+                1000:{
+                    items:4
+                }
+            }
+        })
+        $('.award_tab_slider').owlCarousel({
+            loop:false,
+            margin:20,
+            nav:false,
+            center: false, // Enable center active
+            dots:false,
+            autoplay:false,
+            autoplayTimeout:3000,
+            autoplayHoverPause:false,
+            responsive:{
+                0:{
+                    items:3
+                },
+                500:{
+                    items:3
+                },
+                600:{
+                    items:3
+                },
+                1000:{
+                    items:3
+                }
+            }
+        })
+        $('.cultural_events_slider').owlCarousel({
+            loop:false,
+            margin:20,
+            nav:true,
+            center: false, // Enable center active
+            dots:false,
+            autoplay:false,
+            autoplayTimeout:3000,
+            autoplayHoverPause:false,
+            responsive:{
+                0:{
+                    items:2,
+                    margin:0,
+                },
+                500:{
+                    items:2,
+                },
+                600:{
+                    items:3
+                },
+                1000:{
+                    items:5
+                }
+            }
+        })        
+        $('.event_slider_box').owlCarousel({
+            loop:true,
+            margin:20,
+            nav:false,
+            center: false, // Enable center active
+            dots:true,
+            autoplay:true,
+            autoplayTimeout:3000,
+            autoplayHoverPause:true,
+            responsive:{
+                0:{
+                    items:1
+                },
+                500:{
+                    items:1
+                },
+                600:{
+                    items:1
+                },
+                1000:{
+                    items:1
+                }
+            }
+        })
+        $('.development_slider_box').owlCarousel({
+            loop:false,
+            margin:20,
+            nav:false,
+            center: false, // Enable center active
+            dots:true,
+            autoplay:false,
+            autoplayTimeout:3000,
+            autoplayHoverPause:false,
+            responsive:{
+                0:{
+                    items:1
+                },
+                500:{
+                    items:1
+                },
+                600:{
+                    items:2
+                },
+                1000:{
+                    items:3
+                }
+            }
+        })
+        $('.development_programmes').owlCarousel({
+            loop:false,
+            margin:20,
+            nav:false,
+            center: false, // Enable center active
+            dots:true,
+            autoplay:false,
+            autoplayTimeout:3000,
+            autoplayHoverPause:false,
+            responsive:{
+                0:{
+                    items:1
+                },
+                500:{
+                    items:1
+                },
+                600:{
+                    items:21
+                },
+                1000:{
+                    items:1
+                }
+            }
+        })
+        $('.conference_slider').owlCarousel({
+            loop:true,
+            margin:20,
+            nav:true,
+            center: false, // Enable center active
+            dots:false,
+            autoplay:false,
+            autoplayTimeout:3000,
+            autoplayHoverPause:false,
+            responsive:{
+                0:{
+                    items:1
+                },
+                500:{
+                    items:2
+                },
+                600:{
+                    items:3
+                },
+                1000:{
+                    items:3
+                }
+            }
+        })        
+        
+        // Handle tab click to add active class and remove from others
+        $('.nav-tabs .nav-link').on('click', function() {
+            $('.nav-tabs .nav-link').removeClass('active');
+            $(this).addClass('active');
+        });
+    </script>
+    <!-- Owl Scripts -->
+    
+    <!-- Read More Test Start -->
+    <script>
+        document.getElementById("read-more-btn").addEventListener("click", function() {
+            document.getElementById("extra-content").style.display = "inline";
+            this.style.display = "none";
+            document.getElementById("read-less-btn").style.display = "inline";
+        });
+
+        document.getElementById("read-less-btn").addEventListener("click", function() {
+            document.getElementById("extra-content").style.display = "none";
+            this.style.display = "none";
+            document.getElementById("read-more-btn").style.display = "inline";
+        });
+    </script>
+    <script>
+        $(document).ready(function() {
+            $('.moreless-button').click(function() {
+                var $this = $(this);
+                var $content = $this.prev('.moretext');
+
+                $content.slideToggle(function() {
+                    if ($content.is(':visible')) {
+                        $this.text("Read Less").addClass("active").attr("href", "#top_dec");
+                    } else {
+                        $this.text("Read More").removeClass("active").removeAttr("href");
+                    }
+                });
+            });
+        });
+    </script>
+    <!-- Read More Test End -->
+     
+    <!-- Other Option Mobile Menu Start-->
+    <script>
+        const image = document.getElementById('open_other_menu');
+        const box = document.getElementById('left_vertical_menu');
+
+        // Handle click event on the image to toggle the class
+        image.addEventListener('click', function() {
+            box.classList.toggle('show_other_menu');
+        });
+        
+    </script>   
+
+    <!-- Header Menu Start -->
+    <script>
+        (function ($) {
+            var size;
+
+            //SMALLER HEADER WHEN SCROLL PAGE
+            function smallerMenu() {
+                var sc = $(window).scrollTop();
+                if (sc > 40) {
+                    $("#header-sroll").addClass("small");
+                } else {
+                    $("#header-sroll").removeClass("small");
+                }
+            }
+            // VERIFY WINDOW SIZE
+            function windowSize() {
+                size = $(document).width();
+                if (size >= 991) {
+                    $("body").removeClass("open-menu");
+                    $(".hamburger-menu .bar").removeClass("animate");
+                }
+            }
+            // ESC BUTTON ACTION
+            $(document).keyup(function (e) {
+                if (e.keyCode == 27) {
+                    $(".bar").removeClass("animate");
+                    $("body").removeClass("open-menu");
+                    $(
+                        "header .desk-menu .menu-container .menu .menu-item-has-children a ul"
+                    ).each(function (index) {
+                        $(this).removeClass("open-sub");
+                    });
+                }
+            });
+
+            $("#cd-primary-nav > li").hover(function () {
+                $whidt_item = $(this).width();
+                $whidt_item = $whidt_item - 8;
+
+                $prevEl = $(this).prev("li");
+                $preWidth = $(this).prev("li").width();
+                var pos = $(this).position();
+                pos = pos.left + 4;
+                $("header .desk-menu .menu-container .menu>li.line").css({
+                    width: $whidt_item,
+                    left: pos,
+                    opacity: 1
+                });
+            });
+
+            // ANIMATE HAMBURGER MENU
+            $(".hamburger-menu").on("click", function () {
+                $(".hamburger-menu .bar").toggleClass("animate");
+                if ($("body").hasClass("open-menu")) {
+                    $("body").removeClass("open-menu");
+                } else {
+                    $("body").toggleClass("open-menu");
+                }
+            });
+
+            $("header .desk-menu .menu-container .menu .menu-item-has-children ul").each(
+                function (index) {
+                    $(this).append('<li class="back"><a href="#">Back</a></li>');
+                }
+            );
+
+            // RESPONSIVE MENU NAVIGATION
+            $("header .desk-menu .menu-container .menu .menu-item-has-children > a").on(
+                "click",
+                function (e) {
+                    e.preventDefault();
+                    if (size <= 991) {
+                        $(this).next("ul").addClass("open-sub");
+                    }
+                }
+            );
+
+            // CLICK FUNCTION BACK MENU RESPONSIVE
+            $(
+                "header .desk-menu .menu-container .menu .menu-item-has-children ul .back"
+            ).on("click", function (e) {
+                e.preventDefault();
+                $(this).parent("ul").removeClass("open-sub");
+            });
+
+            $("body .over-menu").on("click", function () {
+                $("body").removeClass("open-menu");
+                $(".bar").removeClass("animate");
+            });
+
+            $(document).ready(function () {
+                windowSize();
+            });
+
+            $(window).scroll(function () {
+                smallerMenu();
+            });
+
+            $(window).resize(function () {
+                windowSize();
+            });
+        })(jQuery);
+    </script>
+    <!-- Header Menu End -->
+
+    <!-- lazy loading start -->
+     <script>
+        document.addEventListener("DOMContentLoaded", function() {
+        const images = document.querySelectorAll(".lazy-load");
+
+        const loadImage = (image) => {
+            const src = image.getAttribute("data-src");
+            if (src) {
+            image.setAttribute("src", src);
+            image.classList.remove("lazy-load"); // Optional: to remove the lazy-load class after image is loaded
+            }
+        };
+
+        const observer = new IntersectionObserver((entries, observer) => {
+            entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                loadImage(entry.target);
+                observer.unobserve(entry.target); // Stop observing the element once it's loaded
+            }
+            });
+        }, {
+            rootMargin: "0px 0px 200px 0px" // Customize when to start loading the image (200px before it enters the viewport)
+        });
+
+        images.forEach(image => {
+            observer.observe(image);
+        });
+        });
+     </script>
+    <!-- lazy loading End -->
+
+    <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.js"></script>
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    
+</body>
+</html>
+Top Computer Science College in India - SICSR, Pune

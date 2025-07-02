@@ -1,0 +1,12 @@
+A:   35.154.178.221
+MX:  1 aspmx.l.google.com.
+5 alt1.aspmx.l.google.com.
+5 alt2.aspmx.l.google.com.
+10 alt3.aspmx.l.google.com.
+10 alt4.aspmx.l.google.com.
+NS:  ns-173.awsdns-21.com.
+ns-883.awsdns-46.net.
+ns-1468.awsdns-55.org.
+ns-1971.awsdns-54.co.uk.
+TXT: "MS=ms72705467"
+"v=spf1 include:_spf.google.com  ip4:180.150.136.19   ip4:180.150.140.187  include:_spf.elasticemail.com  ~all"
